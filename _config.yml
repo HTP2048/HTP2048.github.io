@@ -12,7 +12,7 @@ lang: zh-CN
 timezone: Asia/Shanghai
 
 # jekyll-seo-tag 设置 › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
-# ↓ -------------------------- 
+# ↓ --------------------------
 
 title: 博客 # 主标题
 
@@ -39,7 +39,7 @@ social:
   links:
     # 第一个元素作为版权所有者的链接
     # - https://twitter.com/username # 更改为你的Twitter主页
-     - https://github.com/HTP2048 # 更改为你的GitHub主页
+    - https://github.com/HTP2048 # 更改为你的GitHub主页
     # 取消下面的注释以添加更多社交链接
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -130,7 +130,7 @@ comments:
 # 自托管静态资源，可选 › https://github.com/cotes2020/chirpy-static-assets
 assets:
   self_host:
-    enabled: # 布尔值，保持为空表示false
+    enabled: true # 布尔值，保持为空表示false
     # 指定Jekyll环境，空表示两者都适用
     # 仅当`assets.self_host.enabled`为'true'时生效
     env: # [development | production]
