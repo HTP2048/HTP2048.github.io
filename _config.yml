@@ -96,7 +96,7 @@ theme_mode: dark # [light | dark]
 #cdn: "https://chirpy-img.netlify.app"
 
 # 侧边栏上的头像，支持本地或跨域资源
-avatar: "/commons/avatar.png"
+avatar: "/commons/avatar.jpg"
 
 # 用于SEO `og:image`元标签的全站社交预览图片URL。
 # 它可以被前置matter中的自定义`page.image`覆盖。
