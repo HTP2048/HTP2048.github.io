@@ -87,7 +87,7 @@ social:
 #     light — 使用浅色方案
 #     dark — 使用深色方案
 #
-theme_mode: dark # [light | dark]
+theme_mode: # [light | dark]
 
 # 媒体资源的CDN端点。
 # 注意，一旦设置，CDN URL将被添加到所有以'/'开头的媒体资源（网站头像、帖子图片、音频和视频文件）路径前
