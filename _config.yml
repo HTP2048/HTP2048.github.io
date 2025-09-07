@@ -160,12 +160,12 @@ jekyll_compose:
       # authors: []  # 多作者ID列表（可选，如[author1, author2]）
       categories: [] # 分类（可选，最多2个元素，如[TOP, SUB]）
       tags: [] # 标签（可选）
-      # pin: false  # 是否置顶（可选，默认false）
-      # toc: true  # 是否显示目录（可选，默认继承全局配置）
+      pin: false # 是否置顶（可选，默认false）
+      toc: true # 是否显示目录（可选，默认继承全局配置）
       # comments: true  # 是否启用评论（可选，默认继承全局配置）
-      # math: false  # 是否启用 MathJax 渲染数学公式（可选，默认false）
-      # mermaid: false  # 是否启用 Mermaid 渲染流程图等（可选，默认false）
-      # render_with_liquid: true  # 是否用Liquid渲染（可选，默认true）
+      math: false # 是否启用 MathJax 渲染数学公式（可选，默认false）
+      mermaid: false # 是否启用 Mermaid 渲染流程图等（可选，默认false）
+      render_with_liquid: true # 是否用Liquid渲染（可选，默认true）
       # media_subpath: ""  # 当前文章媒体文件（图片、视频等）的路径前缀，用于简化资源 URL（可选）
       # image:  # 文章顶部预览图（可选）
       #   path: ""  # 图片路径
