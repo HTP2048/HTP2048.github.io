@@ -52,6 +52,7 @@ notification:
 # ----- Posts related labels -----
 
 post:
+  no_posts: "아직 게시된 글이 없습니다"
   written_by: By
   posted: 게시
   updated: 업데이트
@@ -80,5 +81,13 @@ df:
 
 # categories page
 categories:
+  no_categories: "아직 카테고리가 없습니다"
   category_measure: 카테고리
   post_measure: 포스트
+
+tags:
+  no_tags: "아직 태그가 없습니다"
+
+
+archives:
+  no_archives: "아직 아카이브가 없습니다"

@@ -52,6 +52,7 @@ notification:
 # ----- Posts related labels -----
 
 post:
+  no_posts: "No posts published yet"
   written_by: By
   posted: Posted
   updated: Updated
@@ -83,9 +84,17 @@ df:
 
 # categories page
 categories:
+  no_categories: "No categories yet"
   category_measure:
     singular: category
     plural: categories
   post_measure:
     singular: post
     plural: posts
+
+tags:
+  no_tags: "No tags yet"
+
+
+archives:
+  no_archives: "No archives yet"

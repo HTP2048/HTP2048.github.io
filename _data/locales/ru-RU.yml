@@ -51,6 +51,7 @@ notification:
 # ----- Posts related labels -----
 
 post:
+  no_posts: "Пока нет опубликованных статей"
   written_by: Автор
   posted: Опубликовано
   updated: Обновлено
@@ -79,9 +80,17 @@ df:
 
 # categories page
 categories:
+  no_categories: "Пока нет категорий"
   category_measure:
     singular: категория
     plural: категории
   post_measure:
     singular: пост
     plural: посты
+
+tags:
+  no_tags: "Пока нет тегов"
+
+
+archives:
+  no_archives: "Пока нет архивов"

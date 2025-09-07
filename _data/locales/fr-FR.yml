@@ -52,6 +52,7 @@ notification:
 # ----- Posts related labels -----
 
 post:
+  no_posts: "Aucun article n'est publié pour le moment"
   written_by: Par
   posted: Posté
   updated: Mis à jour
@@ -73,5 +74,13 @@ post:
 
 # categories page
 categories:
+  no_categories: "Aucune catégorie pour le moment"
   category_measure: catégories
   post_measure: posts
+
+tags:
+  no_tags: "Aucun tag pour le moment"
+
+
+archives:
+  no_archives: "Aucune archive pour le moment"

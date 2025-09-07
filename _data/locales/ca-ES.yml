@@ -52,6 +52,7 @@ notification:
 # ----- Posts related labels -----
 
 post:
+  no_posts: "No hi ha articles publicats actualment"
   written_by: Per
   posted: Publicat
   updated: Actualitzat
@@ -80,5 +81,13 @@ df:
 
 # categories page
 categories:
+  no_categories: "No hi ha categories ara mateix"
   category_measure: categories
   post_measure: entrades
+
+tags:
+  no_tags: "No hi ha etiquetes ara mateix"
+
+
+archives:
+  no_archives: "No hi ha arxius ara mateix"

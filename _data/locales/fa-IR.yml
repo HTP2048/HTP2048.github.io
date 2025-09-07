@@ -52,6 +52,7 @@ notification:
 # ----- Posts related labels -----
 
 post:
+  no_posts: هنوز هیچ مقاله منتشر نشده است
   written_by: نوشته شده توسط
   posted: منتشر شده
   updated: به‌روزرسانی شده
@@ -83,9 +84,16 @@ df:
 
 # categories page
 categories:
+  no_categories: "هنوز هیچ دسته‌ای وجود ندارد"
   category_measure:
     singular: دسته‌بندی
     plural: دسته‌بندی‌ها
   post_measure:
     singular: پست
     plural: پست‌ها
+
+tags:
+  no_tags: "هنوز هیچ برچسبی وجود ندارد"
+
+archives:
+  no_archives: "هنوز هیچ بایگانی‌ای وجود ندارد"

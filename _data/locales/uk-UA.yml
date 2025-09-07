@@ -52,6 +52,7 @@ notification:
 # ----- Posts related labels -----
 
 post:
+  no_posts: "Ще немає опублікованих статей"
   written_by: Автор
   posted: Час публікації
   updated: Оновлено
@@ -73,5 +74,13 @@ post:
 
 # categories page
 categories:
+  no_categories: "Ще немає категорій"
   category_measure: категорії
   post_measure: публікації
+
+tags:
+  no_tags: "Ще немає тегів"
+
+
+archives:
+  no_archives: "Ще немає архівів"

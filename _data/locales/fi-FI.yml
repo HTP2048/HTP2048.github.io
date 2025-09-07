@@ -51,6 +51,7 @@ notification:
 # ----- Posts related labels -----
 
 post:
+  no_posts: "Tällä hetkellä ei ole julkaistuja artikkeleita"
   written_by: Kirjoittaja
   posted: Julkaistu
   updated: Päivitetty
@@ -82,9 +83,17 @@ df:
 
 # categories page
 categories:
+  no_categories: "Ei kategorioita tällä hetkellä"
   category_measure:
     singular: kategoria
     plural: kategoriat
   post_measure:
     singular: julkaisu
     plural: julkaisut
+
+tags:
+  no_tags: "Ei tageja tällä hetkellä"
+
+
+archives:
+  no_archives: "Ei arkistoja tällä hetkellä"

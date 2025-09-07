@@ -52,6 +52,7 @@ notification:
 # ----- Posts related labels -----
 
 post:
+  no_posts: ထုတ်ပြန်ထားသော ဆောင်းပါး မရှိသေးပါ
   written_by: ကရေးသားခဲ့သည်။
   posted: တင်ထားခဲ့သည်။
   updated: မွမ်းမံထားခဲ့သည်။
@@ -73,5 +74,13 @@ post:
 
 # categories page
 categories:
+  no_categories: "သေးတင် အမျိုးအစား မရှိပါ"
   category_measure: ကဏ္ဍများ
   post_measure: ပို့စ်များ
+
+tags:
+  no_tags: "မည်သည့်တစ်ခုမှ အမှတ်အသား မရှိပါ"
+
+
+archives:
+  no_archives: "သေးတင် သိမ်းဆည်းမှု မရှိပါ"

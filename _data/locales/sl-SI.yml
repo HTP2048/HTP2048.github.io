@@ -52,6 +52,7 @@ notification:
 # ----- Posts related labels -----
 
 post:
+  no_posts: "Trenutno ni objavljenih člankov"
   written_by: Od #By
   posted: Objavljeno #Posted
   updated: Posodobljeno #Updated
@@ -83,9 +84,17 @@ df:
 
 # categories page
 categories:
+  no_categories: "Trenutno ni kategorij"
   category_measure:
     singular: kategorija #category
     plural: kategorije #categories
   post_measure:
     singular: objava #post
     plural: objave #posts
+
+tags:
+  no_tags: "Trenutno ni oznak"
+
+
+archives:
+  no_archives: "Trenutno ni arhivov"

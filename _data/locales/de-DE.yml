@@ -51,6 +51,7 @@ notification:
 # ----- Posts related labels -----
 
 post:
+  no_posts: "Derzeit sind keine Artikel veröffentlicht"
   written_by: Von
   posted: Veröffentlicht
   updated: Aktualisiert
@@ -79,9 +80,17 @@ df:
 
 # categories page
 categories:
+  no_categories: "Zurzeit keine Kategorien"
   category_measure:
     singular: Kategorie
     plural: Kategorien
   post_measure:
     singular: Eintrag
     plural: Einträge
+
+tags:
+  no_tags: "Keine Tags verfügbar"
+
+
+archives:
+  no_archives: "Zurzeit keine Archive"

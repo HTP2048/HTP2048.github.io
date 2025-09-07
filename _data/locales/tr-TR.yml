@@ -52,6 +52,7 @@ notification:
 # ----- Posts related labels -----
 
 post:
+  no_posts: "Henüz yayınlanmış makale yok"
   written_by: Yazan
   posted: Gönderim
   updated: Güncelleme
@@ -73,5 +74,13 @@ post:
 
 # categories page
 categories:
+  no_categories: "Henüz kategori yok"
   category_measure: kategori
   post_measure: gönderi
+
+tags:
+  no_tags: "Henüz etiket yok"
+
+
+archives:
+  no_archives: "Henüz arşiv yok"

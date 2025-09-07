@@ -1,9 +1,9 @@
-# Bundler cache
+# Bundler 缓存
 .bundle
 vendor
 Gemfile.lock
 
-# Jekyll cache
+# Jekyll 缓存
 .jekyll-cache
 .jekyll-metadata
 _site
@@ -11,17 +11,23 @@ _site
 # RubyGems
 *.gem
 
-# NPM dependencies
+# NPM 依赖
 node_modules
 package-lock.json
 
-# IDE configurations
+# IDE 配置
 .idea
 .vscode/*
 !.vscode/settings.json
 !.vscode/extensions.json
 !.vscode/tasks.json
 
-# Misc
+# 杂项
 _sass/vendors
 assets/js/dist
+
+# 本地开发资料
+_posts/教程-快速开始.md
+_posts/教程-更换网站图标.md
+_posts/教程-写一篇新文章.md
+_posts/教程-文本与排版.md

@@ -52,6 +52,7 @@ notification:
 # ----- Posts related labels -----
 
 post:
+  no_posts: "Momentálně nejsou publikovány žádné články"
   written_by: Od
   posted: Zveřejněno
   updated: Aktualizováno
@@ -83,7 +84,15 @@ df:
 
 # categories page
 categories:
+  no_categories: "Žádné kategorie momentálně"
   category_measure: kategorie
   post_measure:
     singular: příspěvěk
     plural: příspěvky
+
+tags:
+  no_tags: "Žádné štítky momentálně"
+
+
+archives:
+  no_archives: "Žádné archivy momentálně"

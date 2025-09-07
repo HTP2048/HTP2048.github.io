@@ -53,6 +53,7 @@ notification:
 # ----- Posts related labels -----
 
 post:
+  no_posts: "Jelenleg nincs közzétett cikk"
   written_by: Szerző
   posted: Létrehozva
   updated: Frissítve
@@ -84,9 +85,17 @@ df:
 
 # categories page
 categories:
+  no_categories: "Jelenleg nincsenek kategóriák"
   category_measure:
     singular: kategória
     plural: kategória
   post_measure:
     singular: bejegyzés
     plural: bejegyzés
+
+tags:
+  no_tags: "Jelenleg nincsenek címkék"
+
+
+archives:
+  no_archives: "Jelenleg nincsenek archívumok"

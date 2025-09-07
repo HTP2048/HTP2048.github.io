@@ -149,6 +149,30 @@ paginate: 10
 # 你的网站的基准URL
 baseurl: ""
 
+# jekyll-compose插件配置
+jekyll_compose:
+  default_front_matter:
+    posts:
+      # title: "" # 文章默认标题（未定义则自动生成）
+      # date: "" # 时间（%Y-%m-%d %H:%M:%S %z格式，不建议定义）
+      # description: "" # 文章描述（可选，未定义则取文章开头内容）
+      author: "HTP2048" # 单作者ID（可选，对应_data/authors.yml）
+      # authors: []  # 多作者ID列表（可选，如[author1, author2]）
+      categories: [] # 分类（可选，最多2个元素，如[TOP, SUB]）
+      tags: [] # 标签（可选）
+      # pin: false  # 是否置顶（可选，默认false）
+      # toc: true  # 是否显示目录（可选，默认继承全局配置）
+      # comments: true  # 是否启用评论（可选，默认继承全局配置）
+      # math: false  # 是否启用 MathJax 渲染数学公式（可选，默认false）
+      # mermaid: false  # 是否启用 Mermaid 渲染流程图等（可选，默认false）
+      # render_with_liquid: true  # 是否用Liquid渲染（可选，默认true）
+      # media_subpath: ""  # 当前文章媒体文件（图片、视频等）的路径前缀，用于简化资源 URL（可选）
+      # image:  # 文章顶部预览图（可选）
+      #   path: ""  # 图片路径
+      #   alt: ""  # 替代文本
+      #   lqip: ""  # 低质量预览图（路径或base64）
+      # 简化写法：image: ""  # 直接指定图片路径
+
 # ------------ 以下选项不建议修改 ------------------
 
 kramdown:

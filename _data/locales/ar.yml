@@ -52,6 +52,7 @@ notification:
 # ----- Posts related labels -----
 
 post:
+  no_posts: "لا يوجد مقالات حاليًا"
   written_by: بواسطة
   posted: نشّر
   updated: حدّث
@@ -83,9 +84,17 @@ df:
 
 # categories page
 categories:
+  no_categories: "لا توجد فئات حالياً"
   category_measure:
     singular: فئة
     plural: فئات
   post_measure:
     singular: منشور
     plural: منشورات
+
+tags:
+  no_tags: "لا توجد وسوم حالياً"
+
+
+archives:
+  no_archives: "لا توجد أرشيفات حالياً"

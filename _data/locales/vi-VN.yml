@@ -51,6 +51,7 @@ notification:
 # ----- Posts related labels -----
 
 post:
+  no_posts: "Chưa có bài đăng nào được xuất bản"
   written_by: Viết bởi
   posted: Đăng lúc
   updated: Cập nhật lúc
@@ -72,5 +73,13 @@ post:
 
 # categories page
 categories:
+  no_categories: "Chưa có danh mục"
   category_measure: danh mục
   post_measure: bài viết
+
+tags:
+  no_tags: "Chưa có thẻ"
+
+
+archives:
+  no_archives: "Chưa có lưu trữ"

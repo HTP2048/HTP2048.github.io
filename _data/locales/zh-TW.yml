@@ -51,6 +51,7 @@ notification:
 # ----- Posts related labels -----
 
 post:
+  no_posts: "暫無文章發布"
   written_by: 作者
   posted: 發布於
   updated: 更新於
@@ -79,5 +80,13 @@ df:
 
 # categories page
 categories:
+  no_categories: "暫無分類"
   category_measure: 個分類
   post_measure: 篇文章
+
+tags:
+  no_tags: "暫無標籤"
+
+
+archives:
+  no_archives: "暫無歸檔"

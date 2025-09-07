@@ -52,6 +52,7 @@ notification:
 # ----- Posts related labels -----
 
 post:
+  no_posts: "Δεν υπάρχουν δημοσιευμένα άρθρα προς το παρόν"
   written_by: Από
   posted: Δημοσιεύθηκε
   updated: Ενημερώθηκε
@@ -83,9 +84,17 @@ df:
 
 # categories page
 categories:
+  no_categories: "Δεν υπάρχουν κατηγορίες προς το παρόν"
   category_measure:
     singular: Κατηγορία
     plural: Κατηγορίες
   post_measure:
     singular: Δημοσίευση
     plural: Δημοσιεύσεις
+
+tags:
+  no_tags: "Δεν υπάρχουν ετικέτες προς το παρόν"
+
+
+archives:
+  no_archives: "Δεν υπάρχουν αρχεία προς το παρόν"

@@ -51,6 +51,7 @@ notification:
 # ----- Posts related labels -----
 
 post:
+  no_posts: "暂无文章发布"
   written_by: 作者
   posted: 发表于
   updated: 更新于
@@ -79,5 +80,12 @@ df:
 
 # categories page
 categories:
+  no_categories: "暂无分类"
   category_measure: 个分类
   post_measure: 篇文章
+
+tags:
+  no_tags: "暂无标签"
+
+archives:
+  no_archives: "暂无归档"

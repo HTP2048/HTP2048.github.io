@@ -52,6 +52,7 @@ notification:
 # ----- Posts related labels -----
 
 post:
+  no_posts: Inga artiklar har publicerats ännu
   written_by: Av
   posted: Postad
   updated: Uppdaterad
@@ -83,9 +84,17 @@ df:
 
 # categories page
 categories:
+  no_categories: "Inga kategorier ännu"
   category_measure:
     singular: kategori
     plural: kategorier
   post_measure:
     singular: inlägg
     plural: inlägg
+
+tags:
+  no_tags: "Inga taggar ännu"
+
+
+archives:
+  no_archives: "Inga arkiv ännu"

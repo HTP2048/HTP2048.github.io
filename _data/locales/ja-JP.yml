@@ -52,6 +52,7 @@ notification:
 # ----- Posts related labels -----
 
 post:
+  no_posts: "まだ投稿が公開されていません"
   written_by: 投稿者
   posted: 投稿日
   updated: 更新日
@@ -80,5 +81,13 @@ df:
 
 # categories page
 categories:
+  no_categories: "まだカテゴリがありません"
   category_measure: カテゴリー
   post_measure: 投稿
+
+tags:
+  no_tags: "まだタグがありません"
+
+
+archives:
+  no_archives: "まだアーカイブがありません"

@@ -52,6 +52,7 @@ notification:
 # ----- Posts related labels -----
 
 post:
+  no_posts: "Aún no hay artículos publicados"
   written_by: Por
   posted: Publicado
   updated: Actualizado
@@ -73,5 +74,13 @@ post:
 
 # categories page
 categories:
+  no_categories: "Aún no hay categorías"
   category_measure: categorias
   post_measure: entradas
+
+tags:
+  no_tags: "Aún no hay etiquetas"
+
+
+archives:
+  no_archives: "Aún no hay archivos"

@@ -51,6 +51,7 @@ notification:
 # ----- Posts related labels -----
 
 post:
+  no_posts: "Nessun articolo pubblicato ancora"
   written_by: Da
   posted: Postato
   updated: Aggiornato
@@ -82,9 +83,16 @@ df:
 
 # categories page
 categories:
+  no_categories: "Nessuna categoria ancora"
   category_measure:
     singular: categoria
     plural: categorie
   post_measure:
     singular: post
     plural: posts
+
+tags:
+  no_tags: "Nessun tag ancora"
+
+archives:
+  no_archives: "Nessun archivio ancora"

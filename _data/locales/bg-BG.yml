@@ -52,6 +52,7 @@ notification:
 # ----- Posts related labels -----
 
 post:
+  no_posts: "Няма публикувани статии в момента"
   written_by: Автор
   posted: Публикувана
   updated: Обновена
@@ -73,9 +74,17 @@ post:
 
 # categories page
 categories:
+  no_categories: "Няма категории в момента"
   category_measure:
     singular: категория
     plural: категории
   post_measure:
     singular: публикация
     plural: публикации
+
+tags:
+  no_tags: "Няма етикети в момента"
+
+
+archives:
+  no_archives: "Няма архиви в момента"

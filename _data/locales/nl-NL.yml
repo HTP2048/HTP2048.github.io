@@ -51,6 +51,7 @@ notification:
 
 # ----- Posts related labels -----
 post:
+  no_posts: "Er zijn nog geen artikelen gepubliceerd"
   written_by: Door
   posted: Posted
   updated: Bijgewerkt
@@ -82,9 +83,17 @@ df:
 
 # categories page
 categories:
+  no_categories: "Nog geen categorieën"
   category_measure:
     singular: categorie
     plural: categorieën
   post_measure:
     singular: post
     plural: posts
+
+tags:
+  no_tags: "Nog geen tags"
+
+
+archives:
+  no_archives: "Nog geen archieven"

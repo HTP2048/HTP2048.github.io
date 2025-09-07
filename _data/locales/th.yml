@@ -52,6 +52,7 @@ notification:
 # ----- Posts related labels -----
 
 post:
+  no_posts: "ยังไม่มีบทความที่เผยแพร่"
   written_by: โดย
   posted: โพสต์เมื่อ
   updated: อัปเดตเมื่อ
@@ -83,9 +84,16 @@ df:
 
 # categories page
 categories:
+  no_categories: "ยังไม่มีหมวดหมู่"
   category_measure:
     singular: หมวดหมู่
     plural: หมวดหมู่
   post_measure:
     singular: โพสต์
     plural: โพสต์
+
+tags:
+  no_tags: "ยังไม่มีแท็ก"
+
+archives:
+  no_archives: "ยังไม่มีอาร์คाइฟ"

@@ -52,6 +52,7 @@ notification:
 # ----- Posts related labels -----
 
 post:
+  no_posts: "Belum ada postingan yang diterbitkan"
   written_by: Oleh
   posted: Diterbitkan
   updated: Diperbarui
@@ -73,5 +74,13 @@ post:
 
 # categories page
 categories:
+  no_categories: "Belum ada kategori"
   category_measure: kategori
   post_measure: Postingan
+
+tags:
+  no_tags: "Belum ada tag"
+
+
+archives:
+  no_archives: "Belum ada arsip"

@@ -1,40 +1,40 @@
-#  The contact options.
+#  联系方式选项
 
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
-
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+# - type: twitter
+#   icon: "fa-brands fa-x-twitter"
+#
+# - type: email
+#   icon: "fas fa-envelope"
+#   noblank: true # 在当前标签页打开链接
 
 - type: rss
   icon: "fas fa-rss"
   noblank: true
-# Uncomment and complete the url below to enable more contact options
+# 取消注释并填写以下网址以启用更多联系方式
 #
 # - type: mastodon
-#   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
+#   icon: 'fab fa-mastodon'   # 图标由 <https://fontawesome.com/> 提供
+#   url:  ''                  # 填写您的Mastodon账户页面，将自动添加rel="me"属性进行验证
 #
 # - type: linkedin
-#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Linkedin homepage
+#   icon: 'fab fa-linkedin'   # 图标由 <https://fontawesome.com/> 提供
+#   url:  ''                  # 填写您的领英主页地址
 #
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
-#   url:  ''                  # Fill with your stackoverflow homepage
+#   url:  ''                  # 填写您的Stack Overflow主页地址
 #
 # - type: bluesky
 #   icon: 'fa-brands fa-bluesky'
-#   url: ''                   # Fill with your Bluesky profile link
+#   url: ''                   # 填写您的Bluesky个人资料链接
 #
 # - type: reddit
 #   icon: 'fa-brands fa-reddit'
-#   url: ''                   # Fill with your Reddit profile link
+#   url: ''                   # 填写您的Reddit个人资料链接
 #
 # - type: threads
 #   icon: 'fa-brands fa-threads'
-#   url: ''                   # Fill with your Threads profile link
+#   url: ''                   # 填写您的Threads个人资料链接
