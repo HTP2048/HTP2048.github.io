@@ -4,5 +4,21 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## 你好👋
+
+我是一位嵌入式开发者🔌，对一切有关嵌入式的东西感兴趣🌟。  
+偶尔也会研究一些其他编程💻与电路⚡方面的东西（如果我感兴趣或者需要的话）。  
+我刚入门没几年，正在学习 C、C++📚和英语🗣️，我的英语目前还不怎么好😄。  
+
+## 关于本站🌐
+
+这是我的个人博客📝，我会在这里更新我的一些日志📅，以及记录一些有趣的东西✨。
+
+&nbsp; 
+&nbsp;  
+&nbsp;   
+&nbsp;    
+&nbsp;     
+&nbsp;      
+
+# 不在犯错中反思，就在犯错中消亡。
